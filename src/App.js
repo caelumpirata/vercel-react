@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Clikc for more !
+          Clikc for more ! :)
         </a>
       </header>
     </div>
